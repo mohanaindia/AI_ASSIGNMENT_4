@@ -22,7 +22,7 @@ Save the code in a Python file such as:
 python sudoku_solver.py or python3 sudoku_solver.py
 
 ```
-
+```
 ═══════════════════════════════════
   Sudoku Solver — CSP
   Backtracking + FC + MRV + AC-3
@@ -63,3 +63,4 @@ python sudoku_solver.py or python3 sudoku_solver.py
 └───────┴───────┴───────┘
 
   ✓ Solved in 3.4 ms
+```
